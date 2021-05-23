@@ -1,0 +1,67 @@
+products:
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\NextItemsExecutableServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\test\interpretor\domain\service\NextItemsExecutableServiceTest.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\test\interpretor\domain\service\TreeSampleData$.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\test\interpretor\domain\service\TreeSampleData.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\test\interpretor\domain\service\TreeServiceTest.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\test\interpretor\facade\Mcrl2FacadeTest.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\TextSampleData.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\test\interpretor\facade\TextSampleData$.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\TextSampleData.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\test\interpretor\facade\TextSampleData.class
+binary dependencies:
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\NextItemsExecutableServiceTest.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\NextItemsExecutableServiceTest.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\NextItemsExecutableServiceTest.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\NextItemsExecutableServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\NextItemsExecutableService.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\NextItemsExecutableServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Composition.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\NextItemsExecutableServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Mcrl2Object.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\NextItemsExecutableServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ActionDto.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\NextItemsExecutableServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ActionsDto.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\NextItemsExecutableServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\NextExecutableItemsDto.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Action$.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Action.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Composition$.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Composition.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Mcrl2Object.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\ProcessId$.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\ProcessId.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\TreeService.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Action$.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Action.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Composition$.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Composition.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Mcrl2Object.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ProcessDto.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-test\1.4.0.RELEASE\2fd44f79ea69c6e2b485d895cbc89e314c6f886c\spring-boot-test-1.4.0.RELEASE.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework\spring-beans\4.3.2.RELEASE\9e87f48f65a33a017f2dd027911947a28be29f93\spring-beans-4.3.2.RELEASE.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework\spring-test\4.3.2.RELEASE\9ed0fa8f5d9596d28f1ea9961177e2a7cb815c79\spring-test-4.3.2.RELEASE.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\tree\Input.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Mcrl2Object.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\Mcrl2Facade.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ActionDto.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ActionsDto.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\NextExecutableItemsDto.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ProcessDto.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\SelectRequestDto.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\SpecificationInformationDto.class
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\TextSampleData.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\TextSampleData.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+source dependencies:
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\NextItemsExecutableServiceTest.scala -> C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\TextSampleData.scala
+external dependencies:
+class names:
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\NextItemsExecutableServiceTest.scala -> interpretor.domain.service.NextItemsExecutableServiceTest
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> interpretor.domain.service.TreeSampleData
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeSampleData.scala -> interpretor.domain.service.TreeSampleData$
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\domain\service\TreeServiceTest.scala -> interpretor.domain.service.TreeServiceTest
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\Mcrl2FacadeTest.scala -> interpretor.facade.Mcrl2FacadeTest
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\TextSampleData.scala -> interpretor.facade.TextSampleData
+   C:\eures\ProCalg V2\backend\src\test\scala\interpretor\facade\TextSampleData.scala -> interpretor.facade.TextSampleData$

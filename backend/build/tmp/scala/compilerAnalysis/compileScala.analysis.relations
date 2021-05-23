@@ -1,0 +1,385 @@
+products:
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\controller\Mcrl2Controller.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$1$$anonfun$apply$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$2$$anonfun$apply$3.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$3$$anonfun$apply$4.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$3.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$4$$anonfun$apply$5.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$4.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\NextItemsExecutableService$$anonfun$manageIntraProcessParallel$1$$anonfun$apply$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\NextItemsExecutableService$$anonfun$manageIntraProcessParallel$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\NextItemsExecutableService.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\ProcessService$$anonfun$getProcess$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\ProcessService$$anonfun$interpretor$domain$service$ProcessService$$findActions$1$$anonfun$apply$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\ProcessService$$anonfun$interpretor$domain$service$ProcessService$$findActions$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\ProcessService.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\TreeService$$anonfun$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\TreeService.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Input.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\tree\Input.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\tree\Specification.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$$anonfun$interpretor$dsl$dsl$$buildTree$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$action$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$2$$anonfun$apply$9$$anonfun$apply$10.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$2$$anonfun$apply$9.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$3.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$4.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionAlt$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionAlt$2$$anonfun$apply$3$$anonfun$apply$4.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionAlt$2$$anonfun$apply$3.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionAlt$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionAlt$3.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionPar$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionPar$2$$anonfun$apply$5$$anonfun$apply$6.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionPar$2$$anonfun$apply$5.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionPar$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionPar$3.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionSeq$1$$anonfun$apply$7$$anonfun$apply$8.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionSeq$1$$anonfun$apply$7.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionSeq$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionSeq$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$delta$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$init$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$init$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$init$3.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$leaf$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$leaf$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$mcrl2Specification$1$$anonfun$apply$1$$anonfun$apply$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$mcrl2Specification$1$$anonfun$apply$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$mcrl2Specification$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$mcrl2Specification$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$mcrl2Specification$3.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$parens$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$parens$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$process$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processSpec$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processSpec$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processSpec$3.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processes$1$$anonfun$apply$11$$anonfun$apply$12.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processes$1$$anonfun$apply$11.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processes$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$term$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Action$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Action.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Composition$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Composition.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Delta$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Delta.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Leaf.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Leaf.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Mcrl2Object.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\ProcessId$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\ProcessId.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\ProcessSpec$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\ProcessSpec.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util$$anonfun$actionListToStringList$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util$$anonfun$areActionsDefined$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util$$anonfun$areActionsUnique$1$$anonfun$apply$mcVI$sp$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util$$anonfun$areActionsUnique$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util$$anonfun$areProcDefined$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util$$anonfun$areProcDefined$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util$$anonfun$areProcUnique$1$$anonfun$apply$mcVI$sp$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util$$anonfun$areProcUnique$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util$$anonfun$findProcessById$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util$$anonfun$pickSomeNumbers$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util$$anonfun$pidToStringList$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\validation\Util.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\exception\ValidationException.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\exception\ValidationException$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\exception\ValidationException.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\exception\ValidationException.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ActionDto$$anonfun$hashCode$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ActionDto$$anonfun$hashCode$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ActionDto$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ActionDto.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionsDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ActionsDto$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionsDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ActionsDto.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ChooseActionDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ChooseActionDto.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\NextExecutableItemsDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\NextExecutableItemsDto.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ProcessDto$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\ProcessDto.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\RequestTextSpecDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\RequestTextSpecDto.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SelectRequestDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\SelectRequestDto.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SpecificationInformationDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\SpecificationInformationDto.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\TextSpecificationDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\TextSpecificationDto$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\TextSpecificationDto.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\dto\TextSpecificationDto.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\Mcrl2Facade$$anonfun$getStringParent$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\Mcrl2Facade$$anonfun$select$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\facade\Mcrl2Facade.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\InterpretorWebApplication.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\ApplicationLauncher$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\InterpretorWebApplication.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\ApplicationLauncher.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\InterpretorWebApplication.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\InterpretorWebApplication.class
+binary dependencies:
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework\spring-web\4.3.2.RELEASE\562b3b775b6e8e7113b5d23b21946f939658bd19\spring-web-4.3.2.RELEASE.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.3.2.RELEASE\e52782b824e097c3b1586b497fc6be0e95020770\spring-context-4.3.2.RELEASE.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.3.2.RELEASE\e52782b824e097c3b1586b497fc6be0e95020770\spring-context-4.3.2.RELEASE.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.3.2.RELEASE\e52782b824e097c3b1586b497fc6be0e95020770\spring-context-4.3.2.RELEASE.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Input.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Input.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-parser-combinators\2.11.0-M4\25b3a88078544a2b9e11b999e5d689cb73d9c0ea\scala-parser-combinators-2.11.0-M4.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Leaf.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.8.1\4465fda9834ab27eac2a76f9a378738d15a9b4fa\jackson-annotations-2.8.1.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\exception\ValidationException.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\exception\ValidationException.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionsDto.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionsDto.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ChooseActionDto.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ChooseActionDto.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\NextExecutableItemsDto.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\NextExecutableItemsDto.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\RequestTextSpecDto.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\RequestTextSpecDto.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SelectRequestDto.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SelectRequestDto.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SpecificationInformationDto.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SpecificationInformationDto.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\TextSpecificationDto.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\TextSpecificationDto.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-parser-combinators\2.11.0-M4\25b3a88078544a2b9e11b999e5d689cb73d9c0ea\scala-parser-combinators-2.11.0-M4.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework\spring-beans\4.3.2.RELEASE\9e87f48f65a33a017f2dd027911947a28be29f93\spring-beans-4.3.2.RELEASE.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.3.2.RELEASE\e52782b824e097c3b1586b497fc6be0e95020770\spring-context-4.3.2.RELEASE.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\InterpretorWebApplication.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\InterpretorWebApplication.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\InterpretorWebApplication.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot-autoconfigure\1.4.0.RELEASE\9fa1ac16ac6fd96d7df2c72b55ba9814be082ffc\spring-boot-autoconfigure-1.4.0.RELEASE.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\InterpretorWebApplication.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework.boot\spring-boot\1.4.0.RELEASE\3b4ea475b40eb9dc966fb3c650c97bfabb988f9\spring-boot-1.4.0.RELEASE.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\InterpretorWebApplication.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework\spring-context\4.3.2.RELEASE\e52782b824e097c3b1586b497fc6be0e95020770\spring-context-4.3.2.RELEASE.jar
+source dependencies:
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Input.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\NextExecutableItemsDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\RequestTextSpecDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SelectRequestDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SpecificationInformationDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\TextSpecificationDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionsDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\NextExecutableItemsDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Leaf.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\exception\ValidationException.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Leaf.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Leaf.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Leaf.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\exception\ValidationException.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionsDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\NextExecutableItemsDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\NextExecutableItemsDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\NextExecutableItemsDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionsDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\RequestTextSpecDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\RequestTextSpecDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SelectRequestDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SelectRequestDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SpecificationInformationDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SpecificationInformationDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\NextExecutableItemsDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SpecificationInformationDto.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Input.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\exception\ValidationException.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\NextExecutableItemsDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\RequestTextSpecDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SelectRequestDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SpecificationInformationDto.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\TextSpecificationDto.scala
+external dependencies:
+class names:
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> interpretor.controller.Mcrl2Controller
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> interpretor.domain.service.NextItemsExecutableService
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> interpretor.domain.service.NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> interpretor.domain.service.NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$1$$anonfun$apply$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> interpretor.domain.service.NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> interpretor.domain.service.NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$2$$anonfun$apply$3
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> interpretor.domain.service.NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$3
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> interpretor.domain.service.NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$3$$anonfun$apply$4
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> interpretor.domain.service.NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$4
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> interpretor.domain.service.NextItemsExecutableService$$anonfun$getAllMultiInterParallelItems$4$$anonfun$apply$5
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> interpretor.domain.service.NextItemsExecutableService$$anonfun$manageIntraProcessParallel$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> interpretor.domain.service.NextItemsExecutableService$$anonfun$manageIntraProcessParallel$1$$anonfun$apply$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> interpretor.domain.service.ProcessService
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> interpretor.domain.service.ProcessService$$anonfun$getProcess$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> interpretor.domain.service.ProcessService$$anonfun$interpretor$domain$service$ProcessService$$findActions$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> interpretor.domain.service.ProcessService$$anonfun$interpretor$domain$service$ProcessService$$findActions$1$$anonfun$apply$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> interpretor.domain.service.TreeService
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> interpretor.domain.service.TreeService$$anonfun$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Input.scala -> interpretor.domain.tree.Input
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala -> interpretor.domain.tree.Specification
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$$anonfun$interpretor$dsl$dsl$$buildTree$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$action$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$2$$anonfun$apply$9
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$2$$anonfun$apply$9$$anonfun$apply$10
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$3
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$4
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionAlt$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionAlt$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionAlt$2$$anonfun$apply$3
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionAlt$2$$anonfun$apply$3$$anonfun$apply$4
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionAlt$3
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionPar$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionPar$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionPar$2$$anonfun$apply$5
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionPar$2$$anonfun$apply$5$$anonfun$apply$6
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionPar$3
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionSeq$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionSeq$1$$anonfun$apply$7
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionSeq$1$$anonfun$apply$7$$anonfun$apply$8
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionSeq$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$delta$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$init$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$init$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$init$3
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$leaf$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$leaf$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$mcrl2Specification$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$mcrl2Specification$1$$anonfun$apply$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$mcrl2Specification$1$$anonfun$apply$1$$anonfun$apply$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$mcrl2Specification$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$mcrl2Specification$3
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$parens$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$parens$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$process$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processSpec$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processSpec$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processSpec$3
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processes$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processes$1$$anonfun$apply$11
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processes$1$$anonfun$apply$11$$anonfun$apply$12
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$term$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> interpretor.dsl.model.Action
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> interpretor.dsl.model.Action$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> interpretor.dsl.model.Composition
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> interpretor.dsl.model.Composition$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala -> interpretor.dsl.model.Delta
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala -> interpretor.dsl.model.Delta$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Leaf.scala -> interpretor.dsl.model.Leaf
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala -> interpretor.dsl.model.Mcrl2Object
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala -> interpretor.dsl.model.ProcessId
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala -> interpretor.dsl.model.ProcessId$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala -> interpretor.dsl.model.ProcessSpec
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala -> interpretor.dsl.model.ProcessSpec$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util$$anonfun$actionListToStringList$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util$$anonfun$areActionsDefined$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util$$anonfun$areActionsUnique$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util$$anonfun$areActionsUnique$1$$anonfun$apply$mcVI$sp$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util$$anonfun$areProcDefined$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util$$anonfun$areProcDefined$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util$$anonfun$areProcUnique$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util$$anonfun$areProcUnique$1$$anonfun$apply$mcVI$sp$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util$$anonfun$findProcessById$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util$$anonfun$pickSomeNumbers$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> interpretor.dsl.validation.Util$$anonfun$pidToStringList$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\exception\ValidationException.scala -> interpretor.exception.ValidationException
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\exception\ValidationException.scala -> interpretor.exception.ValidationException$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala -> interpretor.facade.dto.ActionDto
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala -> interpretor.facade.dto.ActionDto$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala -> interpretor.facade.dto.ActionDto$$anonfun$hashCode$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala -> interpretor.facade.dto.ActionDto$$anonfun$hashCode$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionsDto.scala -> interpretor.facade.dto.ActionsDto
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionsDto.scala -> interpretor.facade.dto.ActionsDto$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ChooseActionDto.scala -> interpretor.facade.dto.ChooseActionDto
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\NextExecutableItemsDto.scala -> interpretor.facade.dto.NextExecutableItemsDto
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala -> interpretor.facade.dto.ProcessDto
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala -> interpretor.facade.dto.ProcessDto$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\RequestTextSpecDto.scala -> interpretor.facade.dto.RequestTextSpecDto
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SelectRequestDto.scala -> interpretor.facade.dto.SelectRequestDto
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\SpecificationInformationDto.scala -> interpretor.facade.dto.SpecificationInformationDto
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\TextSpecificationDto.scala -> interpretor.facade.dto.TextSpecificationDto
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\TextSpecificationDto.scala -> interpretor.facade.dto.TextSpecificationDto$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> interpretor.facade.Mcrl2Facade
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> interpretor.facade.Mcrl2Facade$$anonfun$getStringParent$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> interpretor.facade.Mcrl2Facade$$anonfun$select$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\InterpretorWebApplication.scala -> interpretor.ApplicationLauncher
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\InterpretorWebApplication.scala -> interpretor.ApplicationLauncher$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\InterpretorWebApplication.scala -> interpretor.InterpretorWebApplication

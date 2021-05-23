@@ -3,5 +3,5 @@ WORKDIR /usr/local/apache2/conf
 COPY ./httpd.conf .
 WORKDIR /usr/local/apache2/htdocs
 COPY ./dist/web-app .
-EXPOSE 8080
+EXPOSE 8000
 

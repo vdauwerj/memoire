@@ -20,8 +20,8 @@
         </div>
         <div class=" action-area">
             <div class="w-100 h-100 d-flex align-items-center justify-content-center text-break">
-                <span *ngIf="!isNextAction(action)&& ! isMultiAction(action)"> {{action.name}}</span>
-                <button *ngIf="isNextAction(action) || isMultiAction(action)"
+                <span *ngIf="!(isNextAction(action)&& this.currentMulti.length === 0) && ! isMultiAction(action)"> {{action.name}}</span>
+                <button *ngIf="(isNextAction(action) && this.currentMulti.length === 0) || isMultiAction(action)"
                         class="m-1 p p-button-text"
                         (click)="isMultiAction(action)  ? selectMulti(action) :selectAction(action.name)"
                         pButton type="button" [label]="action.name"></button>
