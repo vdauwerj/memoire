@@ -1,0 +1,6 @@
+
+/frontend/dist
+/frontend/tmp
+/frontend/out-tsc
+/node_modules
+/backend/.gradle

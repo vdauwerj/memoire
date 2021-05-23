@@ -1,0 +1,34 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class SpecificationInformation
+class ProcessDto
+class ActionDto
+class ActionsDto
+class NextExecutableItemsDto
+
+SpecificationInformation  *-up- "1..*" ProcessDto
+SpecificationInformation  *-right- "1..*" NextExecutableItemsDto
+ProcessDto  *-- "0..*" ActionDto
+NextExecutableItemsDto  o-- "0..*" ActionDto
+NextExecutableItemsDto  o-- "0..*" ActionsDto
+ActionsDto o-- "0..*" ActionDto
+
+
+class ProcessDto {
+String name
+Mcrl2Object specification
+}
+class SpecificationInformation {
+String errorMesssage
+Mcrl2Object currentSpecification
+}
+class NextExecutableItemsDto {
+}
+class ActionDto {
+int unique
+String process
+String name
+
+}
+@enduml

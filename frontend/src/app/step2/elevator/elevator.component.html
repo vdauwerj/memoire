@@ -1,0 +1,41 @@
+<div class="position-relative word-break root">
+    <div class="row ">
+        <div class="col-6 process border-left border-right lift-area">
+            <div class="floor py-2 m-0">
+            </div>
+        </div>
+        <div class=" action-area">
+            <div class="w-100 h-100 d-flex align-items-center justify-content-center text-break">
+                <span> {{process.name}}</span>
+            </div>
+        </div>
+    </div>
+    <div *ngFor="let action of process.actions, let last =last, let index = index;" class="row ">
+        <div class="col-6 border-left border-right lift-area"
+             [ngClass]="{'border-bottom': last, 'multi-action-floor' : isMultiAction(action), 'multi-selected': isCurrentMulti(action.name) }">
+            <div  class="floor py-2 m-0 d-flex align-items-center justify-content-center pr-2" >
+                {{isMultiAction(action) ? '||' : ''}}
+                <i *ngIf="isCurrentMulti(action.name)" class="pi pi-check"></i>
+            </div>
+        </div>
+        <div class=" action-area">
+            <div class="w-100 h-100 d-flex align-items-center justify-content-center text-break">
+                <span *ngIf="!isNextAction(action)&& ! isMultiAction(action)"> {{action.name}}</span>
+                <button *ngIf="isNextAction(action) || isMultiAction(action)"
+                        class="m-1 p p-button-text"
+                        (click)="isMultiAction(action)  ? selectMulti(action) :selectAction(action.name)"
+                        pButton type="button" [label]="action.name"></button>
+            </div>
+        </div>
+    </div>
+    <div class="lift d-flex justify-content-center"
+         [@moveFloor]="{ value: state, params: { 'pixels': (state === 'startMove' ? oldPosition : (currentFloor * 70) )}}">
+                <div class="left-door"></div>
+                <div class="center-door" [@door]="doorState" ></div>
+                <div class="right-door"></div>
+    </div>
+</div>
+<app-choose-next *ngIf="chooseNext.visibility" [choose]="chooseNext.choose" (actionChosen)="onActionChosen($event)"></app-choose-next>
+
+
+

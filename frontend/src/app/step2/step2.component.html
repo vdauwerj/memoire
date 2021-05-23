@@ -1,0 +1,41 @@
+<h2 class="mt-5">{{'step2.title' | translate}}</h2>
+<div class="mt-3 p-0 m-0 row">
+    <div class="col-3 mt-3" [hidden]="(executedActions$ | async).length=== 0">{{'step2.executed-actions' | translate}}</div>
+
+    <div class="col-9">
+        <ng-container *ngFor="let executedAction of (executedActions$ | async); let last = last">
+            <button pButton [label]="executedAction.action" type="button"
+                    (click)="backTo(executedAction.state)"
+                    class="m-1 p-button-raised p-button-rounded"></button>
+            <i *ngIf="! last" class="pi pi-arrow-right" style="font-size: 2rem"></i>
+        </ng-container>
+    </div>
+</div>
+<div class="p-0 m-0">
+    <p-message class="mt-3 w-100" severity="info" [text]="'step2.info1' | translate"></p-message><br>
+    <p-message class="mt-3 w-100" severity="info" [text]="'step2.info2' | translate"></p-message>
+</div>
+<div class="text-center ">
+    <button class="m-1 p" pButton type="button" [label]="'global.back' | translate" [disabled]="!(backPossible$ | async)"
+            icon="pi pi-arrow-left" (click)="back()"></button>
+    <button class="m-1 p-button-secondary" pButton type="button" [label]="'global.random' | translate" (click)="random()"
+            icon="pi pi-arrow-right" iconPos="right"></button>
+    <button class="m-1 p-button-secondary" *ngIf="multiPossible$ | async" pButton type="button"
+            [label]="'global.confirm-parallel' | translate"
+             (click)="selectParalelle()"
+            icon="pi pi-arrow-right" iconPos="right"></button>
+</div>
+
+<p-message class="m-2" [ngClass]=" (multiPossible$ | async) ? 'visible' : 'invisible'" severity="warn"
+           [text]="'step2.warn-parallel' | translate"></p-message>
+
+<div class="d-flex flex-wrap">
+    <ng-container *ngFor="let process of (allProcess$ | async); trackBy: trackByElevator">
+        <div class="d-inline-flex">
+                <app-process-trace [process]="process.name"></app-process-trace>
+                <app-elevator class="m-3" [process]="process"></app-elevator>
+        </div>
+
+
+    </ng-container>
+</div>

@@ -1,0 +1,22 @@
+<h1 class="text-center ">ProCalg V2</h1>
+<div class="row">
+    <div class="col-lg-4 col-12">
+        <button class="m-1 p p-button-text"
+                [disabled]="isCurrentLang('fr')"
+                (click)="selectLang('fr')"
+                pButton type="button" label="FR"></button>
+        <button class="m-1  p p-button-text"
+                [disabled]="isCurrentLang('en')"
+                (click)="selectLang('en')"
+                pButton type="button" label="EN"></button>
+    </div>
+    <h2 class=" ml-lg-5 col-lg-7 col-12 word-break">{{"page.title" | translate}}</h2>
+</div>
+<div class="container w-100">
+    <div *ngIf="(currentStep$ | async) === 1|| (currentStep$ | async) === 2">
+        <app-step1></app-step1>
+    </div>
+    <div *ngIf="(currentStep$ | async) === 2">
+        <app-step2></app-step2>
+    </div>
+</div>

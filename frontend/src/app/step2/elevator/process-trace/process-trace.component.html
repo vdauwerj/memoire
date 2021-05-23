@@ -1,0 +1,20 @@
+<div class="mt-140">
+    <div *ngFor="let executedAction of (executedActions$ | async); let first = first">
+        <div class="row mt-2 mb-2 pl-3" *ngIf="!first">
+            <i class="pi pi-arrow-down" ></i>
+        </div>
+        <div class="row mr-2 pl-1 ">
+            <div class=" col-12 text-break">
+                <span> {{executedAction}}</span>
+            </div>
+        </div>
+    </div>
+    <div *ngIf="(executedActions$ | async).length  === 0">
+        <div class="row mt-2 mb-2 pl-3">
+        </div>
+        <div class="row mr-2 pl-2 ">
+            <div class=" col-12 text-break">
+            </div>
+        </div>
+    </div>
+</div>

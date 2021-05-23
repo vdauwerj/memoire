@@ -1,0 +1,58 @@
+.lift-area{
+  min-width: 100px;
+  max-width: 100px;
+}
+.action-area{
+  min-width: 100px;
+  max-width: 100px;
+}
+.multi-selected{
+  background-color: rgba(99, 171, 227, 0.34);
+}
+
+.root {
+  min-width: 300px;
+  max-width: 300px;
+
+}
+.multi-action-floor{
+  background-color: #63abe357;
+}
+
+.floor {
+  height: 70px;
+  width: 70px;
+}
+
+.process {
+  background-color: #ededed;
+}
+
+.left-door {
+  background-color: gray !important;
+  width: 100%;
+  height: 100%;
+}
+
+.center-door {
+  height: 100%;
+}
+
+
+.right-door {
+  background-color: gray !important;
+  width: 100%;
+  height: 100%;
+}
+.lift{
+  position: absolute;
+  height: 70px;
+  width: 60px;
+  border: 4px solid grey;
+  right: 236px;
+
+}
+
+.word-break{
+  word-break: break-all;
+}

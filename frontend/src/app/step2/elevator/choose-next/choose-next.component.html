@@ -1,0 +1,9 @@
+
+<p-dialog [header]="'global.upload' | translate" [visible]="true" [responsive]="true" [style]="{width: '50vw'}">
+    <h2>{{'step2.multiple-choice' | translate}}</h2>
+    <ng-container *ngFor="let textSpec of textSpecification">
+        <div ></div>
+        <button class="m-1 p-button-text" pButton type="button" [label]="textSpec.text"
+                (click)="actionChosen.emit(textSpec.actions)"></button>
+    </ng-container>
+</p-dialog>

@@ -1,0 +1,44 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+abstract class Mcrl2Object
+class Action
+class Composition
+class Delta
+class ProcessId
+class ProcessSpec
+
+Mcrl2Object <|-- Action
+Mcrl2Object <|-- Composition
+Mcrl2Object <|-- Delta
+Mcrl2Object <|-- ProcessId
+Mcrl2Object <|-- ProcessSpec
+Mcrl2Object "1" --* ProcessSpec
+Mcrl2Object "0..1" -up-* Composition : left
+Mcrl2Object "0..1" -up-* Composition : right
+
+
+class Mcrl2Object {
+String processName
+{abstract} String term
+}
+class Action {
+String name
+int unique
+boolean disabled
+}
+class Composition {
+String processName
+String operator
+boolean disabled
+int unique
+}
+class ProcessId {
+int unique
+boolean disabled
+}
+class ProcessSpec {
+ProcessId processId
+Mcrl2Object spec
+}
+@enduml

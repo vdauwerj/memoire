@@ -1,0 +1,34 @@
+{
+  "page": {
+    "title": "Outil de visualisation et d'exécution d'une spécification mCRL2"
+  },
+  "step1": {
+    "info1": "Veuillez charger ou insérer une spécification mcrl2.",
+    "title": "Etape 1"
+  },
+  "step2": {
+    "title": "Etape 2",
+    "executed-actions": "Action executé jusqu'a présent :",
+    "executions": "Execution",
+    "info1" : "Veuillez selectionner l'action à executer.",
+    "info2" : "Pour visualiser les actions suivantes d'une action, veuillez placer votre curseur dessus.",
+    "warn-parallel": "Plusieurs actions peuvent être sélectionnées en parallèle ! Pour sélectionner des actions à exécuter en parallèle, veuillez cliquer sur les boutons bleues. Ensuite, veuillez cliquer sur le bouton: confirmer parallèle actions pour les exécuter."
+  },
+  "global": {
+    "delete": "Supprimer",
+    "save": "Sauvegarder",
+    "upload": "Charger",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "name": "Nom",
+    "back": "PRECEDENT",
+    "random": "RANDOM",
+    "confirm-parallel": "Confirmer parallèles actions"
+  },
+  "save-dialog": {
+    "already-exist": "Une spécification possède déjà ce nom. En cliquant sur save la spécification existante sera ecrasée"
+  },
+  "upload": {
+    "default-dropdown": "Selectionner une spécification"
+  }
+}

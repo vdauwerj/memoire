@@ -1,0 +1,28 @@
+@startuml
+left to right direction
+actor "Utilisateur" as fc
+rectangle "ProCalg V2" {
+  usecase "Soumettre une spécification" as UC5
+  usecase "Sauvegarder une spécification" as UC3
+  usecase "Modifier une spécification" as UC4
+  usecase "Supprimer une spécification" as UC1
+  usecase "Charger une spécification" as UC50
+  usecase "Exécuter pas à pas" as UC6
+  usecase "Visualiser les actions executées" as UC7
+  usecase "Visualiser les actions executées d'un processus" as UC8
+  usecase "Revenir à l'état précédent" as UC9
+  (UC6) ..> (UC5) : include
+  (UC7) ..> (UC5) : include
+  (UC8) ..> (UC5) : include
+  (UC9) ..> (UC5) : include
+}
+fc --> UC1
+fc --> UC3
+fc --> UC4
+fc --> UC5
+fc --> UC6
+fc --> UC7
+fc --> UC8
+fc --> UC9
+fc --> UC50
+@enduml

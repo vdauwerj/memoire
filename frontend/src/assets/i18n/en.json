@@ -1,0 +1,34 @@
+{
+  "page": {
+    "title": "Tool for viewing and executing an mCRL2 specification"
+  },
+  "step1": {
+    "info1": "Please load or insert an mcrl2 specification.",
+    "title": "Step 1"
+  },
+  "step2": {
+    "title": "Step 2",
+    "executed-actions": "Action taken so far :",
+    "info1" : "Please select the action to be performed.",
+    "info2" : "To view the next actions of an action, please place your cursor over it.",
+    "warn-parallel": "Several actions can be selected in parallel! To select actions to be executed in parallel, please click on the blue buttons. Then click on the button: confirm parallel actions to execute them.",
+    "multiple-choice": "Plusieurs choix sont possibles pour cette action. Veuillez en selectionner un."
+  },
+  "global": {
+    "delete": "Delete",
+    "save": "Save",
+    "upload": "Upload",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "name": "Name",
+    "back": "BACK",
+    "random": "RANDOM",
+    "confirm-parallel": "Confirming parallel actions"
+  },
+  "save-dialog": {
+    "already-exist": "A specification already has this name. By clicking save the existing specification will be overwritten"
+  },
+  "upload": {
+    "default-dropdown": "Select a specification"
+  }
+}

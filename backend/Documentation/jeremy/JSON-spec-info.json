@@ -1,0 +1,245 @@
+{
+  "processes": [
+    {
+      "name": "Process1",
+      "actions": [
+        {
+          "unique": [],
+          "name": "action3",
+          "process": "Process1"
+        },
+        {
+          "unique": [],
+          "name": "action2",
+          "process": "Process1"
+        },
+        {
+          "unique": [],
+          "name": "action1",
+          "process": "Process1"
+        }
+      ],
+      "specification": {
+        "unique": 52,
+        "op": ".",
+        "left": {
+          "unique": 48,
+          "name": "action1",
+          "disabled": true,
+          "term": "action",
+          "processId": 0,
+          "readable": "action1"
+        },
+        "right": {
+          "unique": 51,
+          "op": "+",
+          "left": {
+            "unique": 49,
+            "name": "action2",
+            "disabled": true,
+            "term": "action",
+            "processId": 0,
+            "readable": "action2"
+          },
+          "right": {
+            "unique": 50,
+            "name": "action3",
+            "disabled": true,
+            "term": "action",
+            "processId": 0,
+            "readable": "action3"
+          },
+          "disabled": true,
+          "term": "composition",
+          "readable": "action2+action3"
+        },
+        "disabled": true,
+        "term": "composition",
+        "readable": "action1.action2+action3"
+      }
+    },
+    {
+      "name": "Process2",
+      "actions": [
+        {
+          "unique": [],
+          "name": "action3",
+          "process": "Process2"
+        },
+        {
+          "unique": [],
+          "name": "action2",
+          "process": "Process2"
+        },
+        {
+          "unique": [],
+          "name": "action1",
+          "process": "Process2"
+        }
+      ],
+      "specification": {
+        "unique": 58,
+        "op": ".",
+        "left": {
+          "unique": 54,
+          "name": "action1",
+          "disabled": true,
+          "term": "action",
+          "processId": 0,
+          "readable": "action1"
+        },
+        "right": {
+          "unique": 57,
+          "op": "+",
+          "left": {
+            "unique": 55,
+            "name": "action2",
+            "disabled": true,
+            "term": "action",
+            "processId": 0,
+            "readable": "action2"
+          },
+          "right": {
+            "unique": 56,
+            "name": "action3",
+            "disabled": true,
+            "term": "action",
+            "processId": 0,
+            "readable": "action3"
+          },
+          "disabled": true,
+          "term": "composition",
+          "readable": "action2+action3"
+        },
+        "disabled": true,
+        "term": "composition",
+        "readable": "action1.action2+action3"
+      }
+    },
+    {
+      "name": "INIT",
+      "actions": [],
+      "specification": {
+        "unique": 61,
+        "op": "||",
+        "left": {
+          "unique": 63,
+          "op": ".",
+          "left": {
+            "unique": 64,
+            "name": "action1",
+            "disabled": false,
+            "term": "action",
+            "processId": 0,
+            "readable": "action1"
+          },
+          "right": {
+            "unique": 65,
+            "op": "+",
+            "left": {
+              "unique": 66,
+              "name": "action2",
+              "disabled": true,
+              "term": "action",
+              "processId": 0,
+              "readable": "action2"
+            },
+            "right": {
+              "unique": 67,
+              "name": "action3",
+              "disabled": true,
+              "term": "action",
+              "processId": 0,
+              "readable": "action3"
+            },
+            "disabled": true,
+            "term": "composition",
+            "readable": "action2+action3"
+          },
+          "disabled": true,
+          "term": "composition",
+          "readable": "action1.action2+action3"
+        },
+        "right": {
+          "unique": 68,
+          "op": ".",
+          "left": {
+            "unique": 69,
+            "name": "action1",
+            "disabled": false,
+            "term": "action",
+            "processId": 0,
+            "readable": "action1"
+          },
+          "right": {
+            "unique": 70,
+            "op": "+",
+            "left": {
+              "unique": 71,
+              "name": "action2",
+              "disabled": true,
+              "term": "action",
+              "processId": 0,
+              "readable": "action2"
+            },
+            "right": {
+              "unique": 72,
+              "name": "action3",
+              "disabled": true,
+              "term": "action",
+              "processId": 0,
+              "readable": "action3"
+            },
+            "disabled": true,
+            "term": "composition",
+            "readable": "action2+action3"
+          },
+          "disabled": true,
+          "term": "composition",
+          "readable": "action1.action2+action3"
+        },
+        "disabled": false,
+        "term": "composition",
+        "readable": "Process1||Process2"
+      }
+    }
+  ],
+  "nextExecutableItems": {
+    "single": [
+      {
+        "unique": [
+          64
+        ],
+        "name": "action1",
+        "process": "Process1"
+      },
+      {
+        "unique": [
+          69
+        ],
+        "name": "action1",
+        "process": "Process2"
+      }
+    ],
+    "multi": [
+      {
+        "actions": [
+          {
+            "unique": [
+              64
+            ],
+            "name": "action1",
+            "process": "Process1"
+          },
+          {
+            "unique": [
+              69
+            ],
+            "name": "action1",
+            "process": "Process2"
+          }
+        ]
+      }
+    ]
+  }
+}
