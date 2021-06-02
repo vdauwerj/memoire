@@ -208,4 +208,44 @@ class Mcrl2FacadeTest {
     assert(nextItems.single(0).name == "action2")
     assert(nextItems.multi.isEmpty)
   }
+
+  @Test
+  def given_textSpecificationWithBlockSingleAction_when_loadSpecification_then_blockedActionsAreDelta(): Unit = {
+    val input: Input = new Input()
+    input.setCode(TextSampleData.SPECIFICATION_WITH_BLOCK)
+
+    val specificationInformation = mcrl2Facade.loadSpecification(input)
+
+    val nextItems = specificationInformation.nextExecutableItems
+    assert(nextItems.single.isEmpty)
+    assert(nextItems.multi.isEmpty)
+  }
+
+  @Test
+  def given_textSpecificationWithBlockOneOnTwoActions_when_loadSpecification_then_blockedActionIsDeltaOtherIsExecutable(): Unit = {
+    val input: Input = new Input()
+    input.setCode(TextSampleData.SPECIFICATION_WITH_BLOCK_TWO_ACTIONS)
+
+    val specificationInformation = mcrl2Facade.loadSpecification(input)
+
+    val nextItems = specificationInformation.nextExecutableItems
+    assert(nextItems.single.length == 1)
+    assert(nextItems.single(0).name == "action2")
+    assert(nextItems.single(0).process == "INIT")
+    assert(nextItems.multi.isEmpty)
+
+  }
+  @Test
+  def given_textSpecificationWithBlockOneOnTwoActionsParallel_when_loadSpecification_then_blockedActionIsDeltaOtherIsExecutable(): Unit = {
+    val input: Input = new Input()
+    input.setCode(TextSampleData.SPECIFICATION_WITH_BLOCK_MULTI_PROCESS)
+
+    val specificationInformation = mcrl2Facade.loadSpecification(input)
+
+    val nextItems = specificationInformation.nextExecutableItems
+    assert(nextItems.single.length == 1)
+    assert(nextItems.single(0).name == "c")
+    assert(nextItems.single(0).process == "P2")
+    assert(nextItems.multi.isEmpty)
+  }
 }

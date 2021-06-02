@@ -1,10 +1,11 @@
 package interpretor.dsl
 
 import interpretor.domain.tree.Specification
-import interpretor.dsl.model.{Action, Composition, Delta, Mcrl2Object, ProcessId, ProcessSpec}
+import interpretor.dsl.model.{Action, Block, Composition, Delta, Mcrl2Object, ProcessId, ProcessSpec}
 import interpretor.dsl.validation.Util
 import interpretor.exception.ValidationException
 
+import scala.::
 import scala.util.parsing.combinator.JavaTokenParsers
 
 /**
@@ -21,6 +22,7 @@ object dsl {
   val ALT_COMP = 10
   val PAR_COMP = 20
   val SEQ_COMP = 30
+  val BLOCK_COMP = 40
   /**
    * Storing a technical name chosen for the process "init" which embed all the mcrl2
    * application logic
@@ -40,7 +42,7 @@ object dsl {
      * by some process definitions and a (mandatory) clause init.
      *
      */
-    def mcrl2Specification = opt(actions ~ opt(processes)) ~ init ^^ {
+    def mcrl2Specification = opt(actionsDecl ~ opt(processes)) ~ init ^^ {
       case None ~ i => buildTree(i)
       case Some(a ~ None) ~ i => buildTree(a, i)
       case Some(a ~ Some(p)) ~ i => buildTree(a, p, i)
@@ -78,7 +80,7 @@ object dsl {
     /**
      * Alternative composition definition
      */
-    def compositionAlt: Parser[Mcrl2Object] = (compositionPar | term) ~ opt("+" ~ compositionAlt) ^^ {
+    def compositionAlt: Parser[Mcrl2Object] = (compositionPar | term) ~ opt("+" ~ (block | compositionAlt) ) ^^ {
       case a ~ None => a
       case a ~ Some(b ~ c) => {
         unique += 1
@@ -86,6 +88,15 @@ object dsl {
       }
     }
 
+
+    /**
+     * Block definition
+     */
+    def block: Parser[Block] = "block" ~ "({" ~> actions ~ "}," ~ (block | compositionAlt | term) <~ ")" ^^ {
+      case actions ~ a ~ specification => {
+        new Block(actions, specification)
+      }
+    }
     /**
      * Parallel composition definition
      */
@@ -121,13 +132,13 @@ object dsl {
     /**
      * A parens is a subComposition which has left precedence
      */
-    def parens: Parser[Mcrl2Object] = "(" ~> compositionAlt <~ ")"
+    def parens: Parser[Mcrl2Object] = "(" ~> (block | compositionAlt) <~ ")"
 
 
     /**
      * A process spec is an assignation of a composition to a Process id
      */
-    def processSpec: Parser[ProcessSpec] = (process <~ "=") ~ compositionAlt ^^ {
+    def processSpec: Parser[ProcessSpec] = (process <~ "=") ~ (block | compositionAlt) ^^ {
       case a ~ b => new ProcessSpec(a, b)
     }
 
@@ -135,8 +146,15 @@ object dsl {
     /**
      * Returns a list of actions if well defined in mcrl2 code
      */
-    def actions: Parser[List[Action]] = "act" ~> action ~ rep("," ~> action) <~ ";" ^^ {
+    def actions: Parser[List[Action]] = action ~ rep("," ~> action)  ^^ {
       case n1 ~ n2 => n1 :: n2
+    }
+
+    /**
+     * Returns a list of actions if well defined in mcrl2 code
+     */
+    def actionsDecl: Parser[List[Action]] = "act" ~> actions <~ ";" ^^ {
+      case actions  => actions
     }
 
     /**
@@ -148,7 +166,7 @@ object dsl {
     /**
      * Init is the initial process needed to start the specification evaluation
      */
-    def init: Parser[ProcessSpec] = "init" ~> compositionAlt <~ ";" ^^ {
+    def init: Parser[ProcessSpec] = "init" ~> (block | compositionAlt) <~ ";" ^^ {
 
       case p => {
         unique += 1
@@ -169,12 +187,14 @@ object dsl {
     val answer = new Specification
     var initActions: List[Action] = List.empty
     var initProcesses: List[ProcessId] = List.empty
+
     for (i <- proc.indices) {
       initActions :::= Util.getActionsFromProcessSpec(proc(i).process)
       initProcesses :::= Util.getProcFromProcessSpec(proc(i).process)
     }
     initActions :::= Util.getActionsFromProcessSpec(init.process)
     initProcesses :::= Util.getProcFromProcessSpec(init.process)
+
     if (!Util.areActionsDefined(act, initActions))
       throw new ValidationException("It seems some actions used in one or more processes aren't previously defined")
 

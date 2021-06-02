@@ -27,7 +27,7 @@ class NextItemsExecutableService {
         result.single = Array.concat(result.single, leftResult.single, rightResult.single)
         result.multi = Array.concat(result.multi, leftResult.multi, rightResult.multi)
 
-        if (comp.op.equals("||") && !comp.disabled) {
+        if (comp.op.equals("||") && !comp.disabled && getProcess(leftResult) != null && getProcess(rightResult) != null) {
           if (getProcess(leftResult).equals(getProcess(rightResult))) {
             result.single = Array.concat(result.single, manageIntraProcessParallel(leftResult, rightResult))
           } else {

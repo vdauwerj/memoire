@@ -1,11 +1,11 @@
-import {Component, Input, OnInit} from '@angular/core';
-import {Item, SpecificationExecutorService} from '../../service/specification-executor.service';
-import {Observable, of} from 'rxjs';
-import {animate, state, style, transition, trigger} from '@angular/animations';
-import {delay, filter, first, tap} from 'rxjs/operators';
-import {ProcessDefinition} from '../../model/process-definition';
-import {Action} from '../../model/action';
-import {Actions} from '../../model/actions';
+import { Component, Input, OnInit } from '@angular/core';
+import { SpecificationExecutorService } from '../../service/specification-executor.service';
+import { of } from 'rxjs';
+import { animate, state, style, transition, trigger } from '@angular/animations';
+import { delay, first, tap } from 'rxjs/operators';
+import { ProcessDefinition } from '../../model/process-definition';
+import { Action } from '../../model/action';
+import { Actions } from '../../model/actions';
 
 const HEIGHT_OF_ONE_FLOOR = 70;
 
@@ -17,10 +17,10 @@ const HEIGHT_OF_ONE_FLOOR = 70;
         trigger('moveFloor', [
             state('startMove', style({
                 top: '{{pixels}}px',
-            }), {params: {pixels: '30'}}),
+            }), { params: { pixels: '30' } }),
             state('endMove', style({
                 top: '{{pixels}}px',
-            }), {params: {pixels: '30'}}),
+            }), { params: { pixels: '30' } }),
             transition('startMove => endMove', animate('500ms linear'))
         ]),
         trigger('door', [
@@ -38,7 +38,16 @@ const HEIGHT_OF_ONE_FLOOR = 70;
 export class ElevatorComponent implements OnInit {
 
     @Input()
-    process: ProcessDefinition;
+    set process(process: ProcessDefinition) {
+        this._process = process;
+        this.ngOnInit()
+    }
+
+    get process() {
+        return this._process;
+    }
+
+    _process: ProcessDefinition;
     singleSelectableAction: Action[];
     currentFloor = 0;
     state = 'startMove';
@@ -58,7 +67,16 @@ export class ElevatorComponent implements OnInit {
 
     ngOnInit(): void {
         this.specificationExecutorService.getSinglePossible(this.process.name).subscribe(
-            items => this.singleSelectableAction = items
+            items => {
+                let actions = [...this.process.actions];
+                items.forEach(item => {
+                    if (!actions.find(action => action.name === item.name)) {
+                        actions = [...actions, { ...item, unique: null }];
+                    }
+                });
+                this.process.actions = actions;
+                this.singleSelectableAction = items;
+            }
         );
         this.specificationExecutorService.getMultiPossible(this.process.name).subscribe(
             items => this.multiSelectableAction = items

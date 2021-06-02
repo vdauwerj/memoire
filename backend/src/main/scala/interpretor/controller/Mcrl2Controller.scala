@@ -3,15 +3,16 @@ package interpretor.controller
 import interpretor.domain.tree.Input
 import interpretor.facade.Mcrl2Facade
 import interpretor.facade.dto.{RequestTextSpecDto, SelectRequestDto}
+import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation._
 
 @RestController
 @RequestMapping(Array("/v2/analyze"))
-class Mcrl2Controller(mcrl2Facade: Mcrl2Facade) {
+class Mcrl2Controller(@Autowired mcrl2Facade: Mcrl2Facade) {
   /**
    * Allow to submit a spécification.
-   * @param input
+   * @param input the specification
    * @return processes, actions, next actions executables and the currentSpecification
    */
   @PostMapping(value = Array("/send"))

@@ -1,7 +1,7 @@
 package interpretor.dsl.validation
 
 import interpretor.dsl.dsl
-import interpretor.dsl.model.{Action, Composition, Delta, Mcrl2Object, ProcessId, ProcessSpec}
+import interpretor.dsl.model.{Action, Block, Composition, Delta, Mcrl2Object, ProcessId, ProcessSpec}
 import interpretor.exception.ValidationException
 
 import scala.collection.mutable.ListBuffer
@@ -48,6 +48,7 @@ object Util {
       }
       case act: Action => answer = answer :+ act
       case proc: ProcessId => answer = answer
+      case block: Block => getActionsFromProcessSpec(block.specification)
     }
     answer
   }
@@ -67,6 +68,7 @@ object Util {
       }
       case act: Action => answer = answer
       case proc: ProcessId => answer = answer :+ proc
+      case block: Block => getProcFromProcessSpec(block.specification)
     }
     answer
   }
@@ -255,6 +257,7 @@ object Util {
         giveIdsToSpec(comp.left)
         giveIdsToSpec(comp.right)
       }
+      case _ =>
     }
   }
 

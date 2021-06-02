@@ -69,7 +69,7 @@ class Mcrl2Facade {
     treeService.addProcessName(firstProcess, "INIT")
 
     val processes = processService.getProcess(parsingResultValue.initialSpec, parsingResultValue.processes)
-    state.setCurrentSpecification(treeService.setUpTree(firstProcess, processes))
+    state.setCurrentSpecification(treeService.setUpTree(firstProcess, processes, Array.empty))
 
     val nextExecutableActionsDto = nextExecutableService.findNextExecutableElements(state.currentSpecification)
     state.setNextExecutableItems(nextExecutableActionsDto)

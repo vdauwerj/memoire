@@ -1,6 +1,6 @@
 package interpretor.domain.service
 
-import interpretor.dsl.model.{Action, Composition, Delta, Mcrl2Object, ProcessId, ProcessSpec}
+import interpretor.dsl.model.{Action, Block, Composition, Delta, Mcrl2Object, ProcessId, ProcessSpec}
 import interpretor.dsl.validation.Util
 import interpretor.facade.dto._
 import org.springframework.stereotype.Service
@@ -10,6 +10,7 @@ class TreeService {
 
   /**
    * select an action
+   *
    * @param unique
    * @param currentSpecification
    * @param processes
@@ -21,6 +22,7 @@ class TreeService {
 
   /**
    * add the process name into the specification param
+   *
    * @param specification
    * @param name
    * @return specification with all items linked to process name
@@ -35,6 +37,7 @@ class TreeService {
       case act: Action => {
         act.processName = name
       }
+      case block: Block => addProcessName(block.specification, name)
       case _ =>
     }
     specification
@@ -42,35 +45,44 @@ class TreeService {
 
   /**
    * active next executable action of specification
+   *
    * @param spec
    * @param processes
    * @return
    */
-  def setUpTree(spec: Mcrl2Object, processes: Array[ProcessDto]): Mcrl2Object = {
+  def setUpTree(spec: Mcrl2Object, processes: Array[ProcessDto], blockedActions: Array[Action]): Mcrl2Object = {
     spec match {
       case comp: Composition => {
-        setUpComposition(comp, processes)
+        setUpComposition(comp, processes, blockedActions)
       }
       case act: Action => {
-        act.setDisabled(false)
-        act
+        if (blockedActions.exists(action => action.name == act.name)) {
+          new Delta
+        } else {
+          act.setDisabled(false)
+          act
+        }
       }
       case pid: ProcessId => {
         pid.setDisabled(false)
         val currentProcess = processes.find(proc => proc.name.equals(pid.name)).get
-        val node = setUpTree(copySpec(currentProcess.specification, currentProcess.name), processes)
+        val node = setUpTree(copySpec(currentProcess.specification, currentProcess.name), processes, blockedActions)
         Util.giveIdsToSpec(node)
         node.processName = currentProcess.name
         node
       }
       case ps: ProcessSpec => {
-        setUpTree(ps.process, processes)
+        setUpTree(ps.process, processes, blockedActions)
       };
+      case block: Block => {
+        setUpTree(block.specification, processes, block.actions.toArray)
+      }
     }
   }
 
   /**
    * Provide textual representation of action and next items after action
+   *
    * @param unique
    * @param currentSpecification
    * @return textual representation of action and next items after action
@@ -116,7 +128,7 @@ class TreeService {
   private def disableNode(unique: Int, spec: Mcrl2Object, proc: Array[ProcessDto], recursive: Boolean): Mcrl2Object = {
     var node = findNode(spec, unique)
     node match {
-      case process: ProcessId => node = setUpTree(process, proc)
+      case process: ProcessId => node = setUpTree(process, proc, Array.empty)
       case composition: Composition =>
         val disabled = !(composition.op == "||" && isNodeEnabled(composition.left) && isNodeEnabled(composition.right))
         composition.setDisabled(disabled)
@@ -133,7 +145,7 @@ class TreeService {
             Util.disableOtherChildOfComposition(comp, unique)
           }
           if (comp.op == "." && Util.getUnique(comp.left) == unique && !isNodeEnabled(comp.left)) {
-            val newNodeRight = setUpTree(comp.right, proc)
+            val newNodeRight = setUpTree(comp.right, proc, Array.empty)
             comp.right = newNodeRight
           }
 
@@ -245,6 +257,7 @@ class TreeService {
         x
       }
       case delta: Delta => new Delta
+      case block: Block => new Block(block.actions, copySpec(block.specification, process))
     }
   }
 
@@ -254,16 +267,16 @@ class TreeService {
    * @param comp the composition to set up
    * @return the prepared composition (where accessible nodes are enabled)
    */
-  private def setUpComposition(comp: Composition, processes: Array[ProcessDto]): Composition = {
-    if(comp.op == "."){
-      comp.setLeft(setUpTree(comp.left, processes))
+  private def setUpComposition(comp: Composition, processes: Array[ProcessDto], blockedActions: Array[Action]): Composition = {
+    if (comp.op == ".") {
+      comp.setLeft(setUpTree(comp.left, processes, blockedActions))
       return comp
     }
     if (comp.op == "||") {
       comp.setDisabled(false)
     }
-    comp.setLeft(setUpTree(comp.left, processes))
-    comp.setRight(setUpTree(comp.right, processes))
+    comp.setLeft(setUpTree(comp.left, processes, blockedActions))
+    comp.setRight(setUpTree(comp.right, processes, blockedActions))
     comp
   }
 }

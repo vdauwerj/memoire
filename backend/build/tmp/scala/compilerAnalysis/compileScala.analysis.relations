@@ -16,33 +16,45 @@ products:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\ProcessService$$anonfun$interpretor$domain$service$ProcessService$$findActions$1.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\ProcessService.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\TreeService$$anonfun$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\TreeService$$anonfun$setUpTree$1.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\service\TreeService.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Input.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\tree\Input.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\domain\tree\Specification.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$$anonfun$interpretor$dsl$dsl$$buildTree$1.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$action$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$1$$anonfun$apply$14$$anonfun$apply$15.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$1$$anonfun$apply$14.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$1.class
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$2$$anonfun$apply$9$$anonfun$apply$10.class
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$2$$anonfun$apply$9.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$2.class
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$3.class
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actions$4.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actionsDecl$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actionsDecl$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$actionsDecl$3.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$block$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$block$2.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$block$3.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$block$4$$anonfun$apply$6.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$block$4$$anonfun$apply$7.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$block$4.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$block$5.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$block$6.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionAlt$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionAlt$2$$anonfun$apply$3$$anonfun$apply$4$$anonfun$apply$5.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionAlt$2$$anonfun$apply$3$$anonfun$apply$4.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionAlt$2$$anonfun$apply$3.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionAlt$2.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionAlt$3.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionPar$1.class
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionPar$2$$anonfun$apply$5$$anonfun$apply$6.class
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionPar$2$$anonfun$apply$5.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionPar$2$$anonfun$apply$8$$anonfun$apply$9.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionPar$2$$anonfun$apply$8.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionPar$2.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionPar$3.class
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionSeq$1$$anonfun$apply$7$$anonfun$apply$8.class
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionSeq$1$$anonfun$apply$7.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionSeq$1$$anonfun$apply$10$$anonfun$apply$11.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionSeq$1$$anonfun$apply$10.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionSeq$1.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$compositionSeq$2.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$delta$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$init$1$$anonfun$apply$18.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$init$1.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$init$2.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$init$3.class
@@ -53,20 +65,24 @@ products:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$mcrl2Specification$1.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$mcrl2Specification$2.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$mcrl2Specification$3.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$parens$1$$anonfun$apply$12.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$parens$1.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$parens$2.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$process$1.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processSpec$1.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processSpec$2$$anonfun$apply$13.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processSpec$2.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processSpec$3.class
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processes$1$$anonfun$apply$11$$anonfun$apply$12.class
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processes$1$$anonfun$apply$11.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processes$1$$anonfun$apply$16$$anonfun$apply$17.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processes$1$$anonfun$apply$16.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$processes$1.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser$$anonfun$term$1.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl$Mcrl2Parser.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\dsl.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Action$.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Action.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Block$.class
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Block.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Composition$.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Composition.class
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala -> C:\eures\ProCalg V2\backend\build\classes\scala\main\interpretor\dsl\model\Delta$.class
@@ -116,6 +132,7 @@ products:
 binary dependencies:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework\spring-beans\4.3.2.RELEASE\9e87f48f65a33a017f2dd027911947a28be29f93\spring-beans-4.3.2.RELEASE.jar
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\controller\Mcrl2Controller.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.springframework\spring-web\4.3.2.RELEASE\562b3b775b6e8e7113b5d23b21946f939658bd19\spring-web-4.3.2.RELEASE.jar
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
@@ -135,6 +152,8 @@ binary dependencies:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-parser-combinators\2.11.0-M4\25b3a88078544a2b9e11b999e5d689cb73d9c0ea\scala-parser-combinators-2.11.0-M4.jar
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> C:\Users\vanderje\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.7\f75e7acabd57b213d6f61483240286c07213ec0e\scala-library-2.11.7.jar
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala -> C:\Program Files\Java\jdk1.8.0_212\jre\lib\rt.jar
@@ -194,6 +213,7 @@ source dependencies:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionsDto.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\NextItemsExecutableService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\NextExecutableItemsDto.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala
@@ -201,6 +221,7 @@ source dependencies:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ActionDto.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\dto\ProcessDto.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
@@ -212,6 +233,7 @@ source dependencies:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Leaf.scala
@@ -222,6 +244,9 @@ source dependencies:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\exception\ValidationException.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Leaf.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Leaf.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Leaf.scala
@@ -232,6 +257,7 @@ source dependencies:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessId.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\validation\Util.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
@@ -257,6 +283,7 @@ source dependencies:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Input.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Mcrl2Object.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\ProcessSpec.scala
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\facade\Mcrl2Facade.scala -> C:\eures\ProCalg V2\backend\src\main\scala\interpretor\exception\ValidationException.scala
@@ -287,6 +314,7 @@ class names:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\ProcessService.scala -> interpretor.domain.service.ProcessService$$anonfun$interpretor$domain$service$ProcessService$$findActions$1$$anonfun$apply$1
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> interpretor.domain.service.TreeService
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> interpretor.domain.service.TreeService$$anonfun$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\service\TreeService.scala -> interpretor.domain.service.TreeService$$anonfun$setUpTree$1
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Input.scala -> interpretor.domain.tree.Input
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\domain\tree\Specification.scala -> interpretor.domain.tree.Specification
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl
@@ -295,27 +323,38 @@ class names:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$action$1
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$1$$anonfun$apply$14
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$1$$anonfun$apply$14$$anonfun$apply$15
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$2
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$2$$anonfun$apply$9
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$2$$anonfun$apply$9$$anonfun$apply$10
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$3
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actions$4
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actionsDecl$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actionsDecl$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$actionsDecl$3
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$block$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$block$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$block$3
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$block$4
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$block$4$$anonfun$apply$6
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$block$4$$anonfun$apply$7
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$block$5
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$block$6
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionAlt$1
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionAlt$2
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionAlt$2$$anonfun$apply$3
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionAlt$2$$anonfun$apply$3$$anonfun$apply$4
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionAlt$2$$anonfun$apply$3$$anonfun$apply$4$$anonfun$apply$5
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionAlt$3
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionPar$1
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionPar$2
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionPar$2$$anonfun$apply$5
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionPar$2$$anonfun$apply$5$$anonfun$apply$6
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionPar$2$$anonfun$apply$8
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionPar$2$$anonfun$apply$8$$anonfun$apply$9
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionPar$3
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionSeq$1
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionSeq$1$$anonfun$apply$7
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionSeq$1$$anonfun$apply$7$$anonfun$apply$8
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionSeq$1$$anonfun$apply$10
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionSeq$1$$anonfun$apply$10$$anonfun$apply$11
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$compositionSeq$2
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$delta$1
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$init$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$init$1$$anonfun$apply$18
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$init$2
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$init$3
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$leaf$1
@@ -326,17 +365,21 @@ class names:
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$mcrl2Specification$2
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$mcrl2Specification$3
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$parens$1
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$parens$1$$anonfun$apply$12
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$parens$2
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$process$1
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processSpec$1
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processSpec$2
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processSpec$2$$anonfun$apply$13
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processSpec$3
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processes$1
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processes$1$$anonfun$apply$11
-   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processes$1$$anonfun$apply$11$$anonfun$apply$12
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processes$1$$anonfun$apply$16
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$processes$1$$anonfun$apply$16$$anonfun$apply$17
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\dsl.scala -> interpretor.dsl.dsl$Mcrl2Parser$$anonfun$term$1
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> interpretor.dsl.model.Action
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Action.scala -> interpretor.dsl.model.Action$
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala -> interpretor.dsl.model.Block
+   C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Block.scala -> interpretor.dsl.model.Block$
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> interpretor.dsl.model.Composition
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Composition.scala -> interpretor.dsl.model.Composition$
    C:\eures\ProCalg V2\backend\src\main\scala\interpretor\dsl\model\Delta.scala -> interpretor.dsl.model.Delta
