@@ -1,13 +1,13 @@
 version: '3.3'
 services:
   backend:
-    image: thesis/backend-app:latest
+    image: jeremyvda/backend-app:latest
     ports:
       - '8080:8080'
     networks:
       - thesis
   frontend:
-    image: thesis/front-end-apache:latest
+    image: jeremyvda/front-end-apache:latest
     ports:
       - '80:80'
     networks:

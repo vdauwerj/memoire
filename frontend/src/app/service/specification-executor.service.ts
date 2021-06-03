@@ -167,8 +167,13 @@ export class SpecificationExecutorService {
         );
     }
 
-    random(): Observable<void> {
-        return of(void 0);
+    random(): void {
+        const possibleActions = this.state$.value.actionPossible;
+        if(possibleActions.length < 1){
+            return ;
+        }
+        let randomIndex = Math.floor(Math.random() * possibleActions.length);
+        this.select(possibleActions[randomIndex].unique, [possibleActions[randomIndex]])
     }
 
     reset() {

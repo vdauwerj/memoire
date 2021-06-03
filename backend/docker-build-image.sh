@@ -1,4 +1,4 @@
-docker build -t backend-app .
-docker tag backend-app:latest thesis/backend-app
+docker build -t jeremyvda/backend-app .
+docker tag backend-app:latest backend-app
 docker login
-docker push thesis/backend-app:latest
+docker push jeremyvda/backend-app:latest

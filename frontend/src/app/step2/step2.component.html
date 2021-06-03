@@ -19,7 +19,8 @@
     <button class="m-1 p" pButton type="button" [label]="'global.back' | translate" [disabled]="!(backPossible$ | async)"
             icon="pi pi-arrow-left" (click)="back()"></button>
     <button class="m-1 p-button-secondary" pButton type="button" [label]="'global.random' | translate" (click)="random()"
-            icon="pi pi-arrow-right" iconPos="right"></button>
+            icon="pi pi-arrow-right" iconPos="right"git ad></button>
+
     <button class="m-1 p-button-secondary" *ngIf="multiPossible$ | async" pButton type="button"
             [label]="'global.confirm-parallel' | translate"
              (click)="selectParalelle()"

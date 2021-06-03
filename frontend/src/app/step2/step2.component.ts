@@ -32,7 +32,7 @@ export class Step2Component implements OnInit {
     }
 
     random() {
-        this.specificationExecutorService.random().subscribe();
+        this.specificationExecutorService.random();
     }
 
 
